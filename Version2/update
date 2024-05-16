@@ -1,0 +1,9 @@
+log rotation.ps1
+
+Change sleep time 5 to 3.
+Delete some useless codes
+
+file rotation.ps1
+
+Delete some useless codes
+Add new condition when check old files. With this version ps1 file will not be deleted when run file rotation ps1.
