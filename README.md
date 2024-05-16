@@ -1,4 +1,4 @@
-# file_rotation
+# Rotation by powershell script
 A collection of useful PowerShell scripts.
 
 # Usage:
